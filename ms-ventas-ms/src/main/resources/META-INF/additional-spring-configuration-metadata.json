@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "webpay.api.key",
+    "type": "java.lang.String",
+    "description": "A description for 'webpay.api.key'"
+  },
+  {
+    "name": "webpay.commerce.code",
+    "type": "java.lang.String",
+    "description": "A description for 'webpay.commerce.code'"
+  },
+  {
+    "name": "webpay.api.url",
+    "type": "java.lang.String",
+    "description": "A description for 'webpay.api.url'"
+  },
+  {
+    "name": "ms-ventas-db.url",
+    "type": "java.lang.String",
+    "description": "A description for 'ms-ventas-db.url'"
+  }
+]}
